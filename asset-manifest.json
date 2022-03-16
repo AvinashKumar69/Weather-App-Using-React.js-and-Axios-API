@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Weather-App-Using-React.js-and-Axios-API/static/js/main.43f86dc2.chunk.js",
+    "main.js.map": "/Weather-App-Using-React.js-and-Axios-API/static/js/main.43f86dc2.chunk.js.map",
+    "runtime-main.js": "/Weather-App-Using-React.js-and-Axios-API/static/js/runtime-main.d7ddcec5.js",
+    "runtime-main.js.map": "/Weather-App-Using-React.js-and-Axios-API/static/js/runtime-main.d7ddcec5.js.map",
+    "static/js/2.d65a4901.chunk.js": "/Weather-App-Using-React.js-and-Axios-API/static/js/2.d65a4901.chunk.js",
+    "static/js/2.d65a4901.chunk.js.map": "/Weather-App-Using-React.js-and-Axios-API/static/js/2.d65a4901.chunk.js.map",
+    "index.html": "/Weather-App-Using-React.js-and-Axios-API/index.html",
+    "static/js/2.d65a4901.chunk.js.LICENSE.txt": "/Weather-App-Using-React.js-and-Axios-API/static/js/2.d65a4901.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7ddcec5.js",
+    "static/js/2.d65a4901.chunk.js",
+    "static/js/main.43f86dc2.chunk.js"
+  ]
+}
