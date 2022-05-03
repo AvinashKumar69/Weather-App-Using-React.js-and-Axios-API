@@ -1,6 +1,8 @@
-import React, { useState } from 'react'
 import axios from 'axios'
+import React, { useState } from 'react'
 import ShowTemp from './ShowTemp'
+
+
 function App() {
     const [city, setCity] = useState("")
     const [data, setData] = useState({
